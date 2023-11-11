@@ -1,3 +1,7 @@
 [submodule "tailwind-react-ts"]
 	path = tailwind-react-ts
-	url = https://github.com/fdd-startup/tailwind-react-ts
+`	url = https://github.com/fdd-startup/tailwind-react-ts
+
+[submodule "android-jetpack-compose"]
+	path = jetpack-compose-boilerplate
+	url = https://github.com/fdd-startup/jetpack-compose-boilerplate
