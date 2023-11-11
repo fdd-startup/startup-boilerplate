@@ -1,4 +1,3 @@
 [submodule "tailwind-react-ts"]
 	path = ./tailwind-react-ts
-	url = git@github.com:fdd-startup/tailwind-react-ts.git
-
+	url = https://github.com/fdd-startup/tailwind-react-ts
