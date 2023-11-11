@@ -14,8 +14,8 @@
 
 # 제공되는 보일러플레이트
 - [x] React 프로젝트
-- [] React Native 프로젝트
-- [] NestJS 프로젝트
-- [] nextjs 프로젝트
-- [] 안드로이드 프로젝트
-- [] iOS 프로젝트
+- [ ] React Native 프로젝트
+- [ ] NestJS 프로젝트
+- [ ] nextjs 프로젝트
+- [ ] 안드로이드 프로젝트
+- [ ] iOS 프로젝트
